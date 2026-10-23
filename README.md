@@ -842,6 +842,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [sitectrl](https://sitectrl.ai/mcp) `https://mcp.sitectrl.ai/mcp`
   [![sitectrl MCP connector](https://glama.ai/mcp/connectors/ai.sitectrl/sitectrl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sitectrl/sitectrl)
   🔓 - Describe a site and get it live with SSL, forms and analytics; OAuth to edit and manage it.
+- [SiteKrs](https://sitekrs.ai-krs.com) `https://sitekrs.ai-krs.com/api/mcp`
+  [![SiteKrs MCP connector](https://glama.ai/mcp/connectors/io.github.hansail001/sitekrs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hansail001/sitekrs)
+  🔓 - List SiteKrs static-site templates and get editor links; import your own source on the homepage.
 - [Sitelas](https://sitelas.com) `https://sitelas.com/api/mcp`
   [![Sitelas MCP connector](https://glama.ai/mcp/connectors/com.sitelas/sitelas/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitelas/sitelas)
   🔐 - Build a website from a template, preview it, publish on approval, then edit it and read its form messages.
